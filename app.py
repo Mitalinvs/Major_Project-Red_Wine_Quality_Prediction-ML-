@@ -1,11 +1,5 @@
 #Type in terminal: py -m streamlit run app.py
 
-import subprocess
-# Install Streamlit
-subprocess.call(['pip', 'install', 'streamlit'])
-# Upgrade scikit-learn, scipy, and matplotlib
-subprocess.call(['pip', 'install', '-U', 'scikit-learn', 'scipy', 'matplotlib'])
-
 import numpy as np
 import pandas as pd
 import streamlit as st
