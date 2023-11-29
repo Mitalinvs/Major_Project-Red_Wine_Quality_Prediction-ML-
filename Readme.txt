@@ -1,7 +1,7 @@
+#Type in terminal:
 pip install streamlit
 pip install -U scikit-learn scipy matplotlib
-
-#Type in terminal: py -m streamlit run app.py
+py -m streamlit run app.py
 
 Good Quality:
 7.3,0.65,0,1.2,0.065,15,21,0.9946,3.39,0.47,10
